@@ -1,3 +1,10 @@
+# Ignoring config files that contain credentials:
+config.py
+
+# Ignoring IDEA files:
+.idea/
+
+# Default .gitignore suggestions for Python:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
